@@ -10,15 +10,16 @@ To build a server it require to download [**node.js**](https://nodejs.org/en/dow
 
 I installed \*nodemon\* to restart the server automaticlly eveytime i modifiy my files.
 
-###Routes
+### Routes
 
 1-**GET** method.
+
 2-**POST** method.
 
 When i got the data from OpenWeatherMap i saved in POST method, made some changes and put it into the get method to display my data into index-html.
 
 
-####JavaScript code
+#### JavaScript code
 > functions.
 1-OpenWeather:
 it take 3 parameters URL + zipCode + apikey (To get API key you need to create account in OpenWeatherMap).
