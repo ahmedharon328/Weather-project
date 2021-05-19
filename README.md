@@ -37,7 +37,7 @@ it only fetch the date that received from **POSt** and assign it to **GET** to d
 
 ##### AddEventListener
 
-I used addevent _Click_ to generate the display the data by Using **myFunction**.
+I used addevent _Click_ on generate to display data by Using **myFunction**.
 > All myFunction does it take those 3 functions above (opeWeather,Weatherdate,UpdateUI) to do all the work.
 
 ###### Websites
