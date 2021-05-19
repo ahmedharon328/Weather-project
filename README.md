@@ -21,6 +21,7 @@ When i got the data from OpenWeatherMap i saved in POST method, made some change
 
 #### JavaScript code
 > functions.
+
 1-OpenWeather:
 it take 3 parameters URL + zipCode + apikey (To get API key you need to create account in OpenWeatherMap).
 i used async await method to fetch the data and parsed it into json 
