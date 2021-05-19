@@ -70,7 +70,6 @@ const updateUI = async()=>{
     const request = await fetch ("/presentData");
     try {
         const alldata =await request.json();
-        const div =document.getElementById("entryHolder");
         document.getElementById("date").innerHTML =`Date: ${alldata.date}`;
         document.getElementById("temp").innerHTML =`Temperature ${alldata.temp}`;
         document.getElementById("content").innerHTML =`Feeling: ${alldata.content}`;
