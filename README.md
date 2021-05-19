@@ -8,7 +8,7 @@ To build a server it require to download [**node.js**](https://nodejs.org/en/dow
 * npm install body-parser.
 * npm install cors. 
 
-I installed \*nodemon\* to restart the server automaticlly eveytime i modifiy my files.
+I installed **nodemon** to restart the server automaticlly eveytime i modifiy my files.
 
 ### Routes
 
