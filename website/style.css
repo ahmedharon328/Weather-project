@@ -93,7 +93,6 @@ select:focus,
 textarea:focus,
 button:focus {
     outline:none;
-    max-zoom:inherit;
 }
 /* Style for Placeholder Text*/
 
@@ -118,10 +117,6 @@ button:focus {
 }
 
 
-@media screen and (max-width:600px) {
-    .app{
-       background-size: 25%;
-    }
-}
+
 
 
